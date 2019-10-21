@@ -12,6 +12,7 @@ namespace School
         static void Main(string[] args)
         {
             int askedPerformanceGrade;
+            List<Student> LStudent = new List<Student>();
             ArrayList performanceGrade = new ArrayList();
             
             bool vigyunkFelMeg = false;
@@ -22,8 +23,6 @@ namespace School
 
             do
             {
-                Student student = new Student();
-
                 /*a felhasználó beírhat diákokat*/
                 Console.WriteLine("Hogy hivjak a diakot?");                
                 student.SetName(Console.ReadLine());
@@ -42,8 +41,13 @@ namespace School
                     vigyunkFelMeg = true;
                 }
                 else { vigyunkFelMeg = false; }
-                
+
+                student.Add(student);
+
+
             } while (vigyunkFelMeg);
+
+
 
             Console.WriteLine("Azt válaszoltad, hogy nem szeretnél több diákot felvinni");
 

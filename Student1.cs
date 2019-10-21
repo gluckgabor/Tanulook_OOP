@@ -26,7 +26,5 @@ namespace School
         {
             performanceGrade = askedPerformanceGrade;  //this.
         }
-
-
     }
 }
