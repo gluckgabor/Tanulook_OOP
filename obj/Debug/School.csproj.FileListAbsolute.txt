@@ -1,0 +1,6 @@
+C:\Users\Glück Gábor\source\repos\TanulookOOP\TanulookOOP\bin\Debug\TanulookOOP.exe.config
+C:\Users\Glück Gábor\source\repos\TanulookOOP\TanulookOOP\bin\Debug\TanulookOOP.exe
+C:\Users\Glück Gábor\source\repos\TanulookOOP\TanulookOOP\bin\Debug\TanulookOOP.pdb
+C:\Users\Glück Gábor\source\repos\TanulookOOP\TanulookOOP\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\Glück Gábor\source\repos\TanulookOOP\TanulookOOP\obj\Debug\TanulookOOP.exe
+C:\Users\Glück Gábor\source\repos\TanulookOOP\TanulookOOP\obj\Debug\TanulookOOP.pdb
